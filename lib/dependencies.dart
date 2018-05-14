@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import 'ElapsedTime.dart';
+import 'elapsed_time.dart';
 
 class Dependencies {
 
