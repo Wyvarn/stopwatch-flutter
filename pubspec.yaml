@@ -1,5 +1,5 @@
 name: stopwatch_flutter
-description: A new Flutter project.
+description: Stopwatch made using Flutter.
 
 dependencies:
   flutter:
